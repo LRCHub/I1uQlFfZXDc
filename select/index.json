@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "これ青春アンダースタンド",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-11T13:46:43.451509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "これ青春アンダースタンド",
+      "artist": "CHiCO With HoneyWorks Feat. Sana",
+      "has_synced": true,
+      "path": "select/01_これ青春アンダースタンド_CHiCO_With_HoneyWorks_Feat._Sana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "これ青春アンダースタンド feat.sana",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_これ青春アンダースタンド_feat.sana_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "これ青春アンダースタンド",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_これ青春アンダースタンド_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "これ青春アンダースタンド feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_これ青春アンダースタンド_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
